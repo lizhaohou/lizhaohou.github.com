@@ -1,5 +1,5 @@
-permalink: /:year/:month/:title/
-url: http://geeklu.com
-author: 卢克
+﻿permalink: /:year/:month/:title/
+url: http://lizhaohou.github.com
+author: Lizhao
 pygments: true
 paginate: 24
