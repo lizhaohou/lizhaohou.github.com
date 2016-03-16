@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 开始写技术博客了
-categories:
-- Life
-tags:
-- 
+categories: Life
+tags: 
 ---
 
 ## 立此为证，坚持不懈
