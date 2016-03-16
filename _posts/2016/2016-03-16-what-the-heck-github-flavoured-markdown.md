@@ -19,11 +19,11 @@ tags: github markdown
 
 [文章链接](http://www.jianshu.com/p/cfPxyr)  写的比较乱七八糟，有几点写到的：
 
-##### 自动URL链接
+#### 自动URL链接
 
 如果直接写URL link，那么会自动生成URL，文字即链接本身： https://github.com
 
-##### 代码高亮
+#### 代码高亮
 - 首尾都用```（三个键盘左上角的符号）
 
 ```
@@ -42,7 +42,7 @@ console.log("Hello World");
 
 比起那些用四个空格来表示代码段的蛋疼方式，这些确实好多了
 
-##### 任务列表
+#### 任务列表
 
 用<code>- [ ]</code> 表示，注意中间都是空格，空格不对的话是显示不出来的哦，效果如下：
 - [ ] Task1
@@ -52,3 +52,7 @@ console.log("Hello World");
 ## 二
 
 [好书推荐](http://xianbai.me/learn-md/index.html)，介绍的详细而具体，可以好好读读
+
+
+
+居然和本地效果又不一样！！！
