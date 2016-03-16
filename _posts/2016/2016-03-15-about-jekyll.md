@@ -5,7 +5,7 @@ categories: Program
 tags: Jekyll
 ---
 
-##说一说为什么会用Jekyll
+## 说一说为什么会用Jekyll
 
 这个博客的技术是用[Jekyll](https://github.com/mojombo/jekyll)以及[Github Page](http://pages.github.com)。各种技术名词层出不穷，对于新手来说真是晕菜，本以为自己也号称是前端工程师，做过了一些网站了。没想到搭起来这个Jekyll的架构也是颇费了一番功夫。说起来还是资料不够多，就像我以前看了一周的新版Magento资料，头都大了，却发现框架改动太大，新旧资料前后矛盾。新技术的时效性太强了，可一定要注意找最新的来看啊。
 
