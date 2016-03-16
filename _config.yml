@@ -1,5 +1,5 @@
 ﻿permalink: /:year/:month/:title/
 url: http://lizhaohou.github.com
 author: Lizhao
-pygments: true
+highlighter: rouge
 paginate: 24
